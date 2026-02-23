@@ -1,106 +1,25 @@
-\# Sales Performance Dashboard (Python + CSV)
+# 📊 Sales Performance Dashboard
 
+A complete sales analysis project built using Python and Excel.
 
+## 🔍 What This Project Shows
+- Data Cleaning
+- Revenue & Profit Analysis
+- Pivot Tables
+- Dashboard Design
+- Business Intelligence Thinking
 
-\## Overview
+## 📁 Files Included
+- sales_data.csv
+- analysis.py
+- Sales_Dashboard.xlsx
 
-This project analyzes small business sales data to generate key performance insights such as:
-
-\- Total revenue and total profit
-
-\- Best-selling products
-
-\- Monthly revenue and profit trends
-
-\- Basic visuals for dashboard-style reporting
-
-
-
-It demonstrates real-world skills in \*\*data cleaning, reporting, exploratory analysis (EDA), and visualization\*\*.
-
-
-
----
-
-
-
-\## Dataset
-
-\*\*File:\*\* `sales\_data.csv`  
-
-\*\*Columns:\*\*
-
-\- `Date` — sales transaction date
-
-\- `Product` — item sold
-
-\- `Category` — product category (Tech / Office)
-
-\- `Quantity` — number of items sold
-
-\- `Price` — selling price per unit
-
-\- `Cost` — cost per unit
-
-
+## 🛠 Tools Used
+- Python
+- Pandas
+- Matplotlib
+- Microsoft Excel
 
 ---
 
-
-
-\## Tools Used
-
-\- Python
-
-\- Pandas
-
-\- Matplotlib
-
-\- CSV (Excel-ready format)
-
-
-
----
-
-
-
-\## Key Metrics Created
-
-The script generates:
-
-\- `Revenue = Quantity \* Price`
-
-\- `Profit = (Price - Cost) \* Quantity`
-
-\- `Month` extracted from the Date
-
-
-
----
-
-
-
-\## Main Insights (Examples)
-
-\- Identify top-selling products by total quantity
-
-\- Track monthly revenue and monthly profit
-
-\- Compare performance across months to detect trends
-
-
-
----
-
-
-
-\## How to Run
-
-1\. Make sure you have Python installed
-
-2\. Install dependencies:
-
-&nbsp;  ```bash
-
-&nbsp;  pip install pandas matplotlib
-
+👨🏽‍💻 Author: Pacifique Fashaho
