@@ -1,20 +1,20 @@
-# 📊 Sales Performance Dashboard
+# Sales Performance Dashboard
 
 A complete sales analysis project built using Python and Excel.
 
-## 🔍 What This Project Shows
+## What This Project Shows
 - Data Cleaning
 - Revenue & Profit Analysis
 - Pivot Tables
 - Dashboard Design
 - Business Intelligence Thinking
 
-## 📁 Files Included
+## Files Included
 - sales_data.csv
 - analysis.py
 - Sales_Dashboard.xlsx
 
-## 🛠 Tools Used
+## Tools Used
 - Python
 - Pandas
 - Matplotlib
@@ -22,4 +22,5 @@ A complete sales analysis project built using Python and Excel.
 
 ---
 
-👨🏽‍💻 Author: Pacifique Fashaho
+Author: Pacifique Fashaho
+
